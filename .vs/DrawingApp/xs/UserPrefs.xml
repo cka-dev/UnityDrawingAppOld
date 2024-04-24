@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3CD5EAF1-E467-F6D4-68CF-CFE27878B674}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DrawingActions.cs">
+    <Files>
+      <File FileName="Assets/DrawingActions.cs" Line="275" Column="1" />
+      <File FileName="Assets/DrawScript.cs" Line="405" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DrawingApp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="DrawingActions.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0fdf5c26-3adb-417c-9f3e-1831625ddcc6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
